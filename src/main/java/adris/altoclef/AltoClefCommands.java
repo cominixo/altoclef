@@ -26,6 +26,7 @@ public class AltoClefCommands {
                 new LocateStructureCommand(),
                 new StopCommand(),
                 new TestCommand(),
+                new ComofasCommand(),
                 new FoodCommand(),
                 new ReloadSettingsCommand(),
                 new GamerCommand(),
